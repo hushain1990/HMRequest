@@ -11,7 +11,7 @@ public extension HM {
     
     
     class func getRequest() {
-        
+        //
     }
     
 }
