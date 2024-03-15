@@ -1,0 +1,6 @@
+framework module HMRequest {
+  umbrella header "HMRequest-umbrella.h"
+
+  export *
+  module * { export * }
+}

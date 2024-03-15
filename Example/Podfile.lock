@@ -1,0 +1,16 @@
+PODS:
+  - HMRequest (0.1.0)
+
+DEPENDENCIES:
+  - HMRequest (from `../`)
+
+EXTERNAL SOURCES:
+  HMRequest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HMRequest: ac9607aaf0f51ba59926e78d98e31234f8a9bfbb
+
+PODFILE CHECKSUM: 1d19b825f57aff0d651bbce06a6e29136d6fa246
+
+COCOAPODS: 1.15.2

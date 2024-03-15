@@ -1,0 +1,6 @@
+framework module Pods_HMRequest_Example {
+  umbrella header "Pods-HMRequest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
